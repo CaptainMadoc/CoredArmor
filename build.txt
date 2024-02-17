@@ -1,0 +1,3 @@
+displayName = Cored Armor
+author = JM
+version = 0.1

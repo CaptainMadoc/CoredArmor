@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNckqiFDjWApoBa5S/4nYuu0ndREwukKvaIjpEH7ltjg4N5QV0wnM/ym+1Bbt1/qtW8cFfJUWSNE++Ku/WiSqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devil\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CoredArmor\\CoredArmor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devil\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
